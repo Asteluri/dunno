@@ -30,7 +30,7 @@ var adPercent = 0.1;
 
 var Favicon_URL = 'https://files.catbox.moe/6sr1me.png';
 
-var ChannelName_Caption = '25 Days of Autism';
+var ChannelName_Caption = 'Yayifications';
 
 var TitleBarDescription_Caption = '>Streaming:';
 
